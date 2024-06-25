@@ -14,10 +14,16 @@
 ## 安装      
 
 > Miao-Yunzai/Yunzai-Bot/目录下执行  
+### 使用Git安装
+
+**Gitee**
 ```
 git clone  https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0/.git ./plugins/xiuxian@1.3.0/
-
-```           
+```
+**Github**
+```
+git clone  https://github.com/yll0614/DDZS-XIUXIAN-V1.3.0.git ./plugins/xiuxian@1.3.0/
+```         
 > [插件已适配频道和TRSS,推荐使用TRSS时雨崽搭配gocq插件以及频道插件使用](https://gitee.com/TimeRainStarSky/Yunzai)
 ## 转移存档            
 ![转移存档](pic/photo4.jpg)     
