@@ -7,7 +7,7 @@
 </div> 
 
 ## 此已停止更新,欢迎提交request，正在制作V2.0版本(招人,美工,程序,测试都可以,是个人就行)，此版本详情见交流群
-## [Github为个人fork仓库,点击前往作者仓库](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0)
+## [该Github仓库为个人fork仓库,点击前往作者仓库](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0)
 ## 玩家攻略
 [修仙攻略](https://docs.qq.com/doc/DY25pbVlEakJaaW1u)  
 ## 访问量：        
