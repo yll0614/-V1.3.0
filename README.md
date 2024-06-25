@@ -10,12 +10,12 @@
 ## 玩家攻略：
 [修仙攻略](https://docs.qq.com/doc/DY25pbVlEakJaaW1u)  
 ## 访问量：        
-<br><img src="https://count.moeyy.cn/get/@:yueyuez/" /> <br>       
+<br><img src="https://count.getloli.com/get/@:DDZS-XIUXIAN-V1.2.4?theme=rule34" /> <br>       
 ## 安装      
 
 > Miao-Yunzai/Yunzai-Bot/目录下执行  
 ```
-git clone  https://github.com/yll0614/DDZS-XIUXIAN-V1.3.0.git ./plugins/xiuxian@1.3.0/
+git clone  https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0/.git ./plugins/xiuxian@1.3.0/
 
 ```           
 > [插件已适配频道和TRSS,推荐使用TRSS时雨崽搭配gocq插件以及频道插件使用](https://gitee.com/TimeRainStarSky/Yunzai)
@@ -96,4 +96,4 @@ git clone  https://github.com/yll0614/DDZS-XIUXIAN-V1.3.0.git ./plugins/xiuxian@
 >可根据需求自行修改     
 ## 免责声明       
 1. 功能仅限内部交流与小范围使用       
-2. 请勿用于任何以盈利为目的的场景
+2. 请勿用于任何以盈利为目的的场景      
